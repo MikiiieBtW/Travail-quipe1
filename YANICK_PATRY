@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Index</title>
+</head>
+<body>
+
+  <hr>
+<h1> <center> Voici les liens pour acceder au personnes travaillant dans ce projet. </center> </h1>
+  <hr>
+  
+<center><a href="mikael_lauzon.html">Vers Mikaël</a></center> <br>
+<center><a href="YANICK_PATRY.html">Vers Yanick</a></center> <br>
+<center><a href="robert_chartrand.html">Vers Robert</a></center> <br>
+<center><a href="ginette_chartrand.html">Vers Ginette</a></center> <br>
+  
+  <hr>
+<h2><center>Visuels</center></h2>
+  <hr>
+
+<center><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTVobDljaGp1MHpvZ3ZlZ3Z0NTY4YmxrbXpkaXZ1dnp6YnA3cTd4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5oYgxQKHhEjEk/giphy-downsized-large.gif" alt="Me" style="width: 75%; height: 75%;"></center>
+
+</body>
+</html>
